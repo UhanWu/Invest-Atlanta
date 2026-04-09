@@ -1,0 +1,762 @@
+lon_round,lat_round,longitude,latitude,names,categories,sources,n_sources
+-84.61492,33.69206,-84.61492,33.69206,Clifton Station Inc  ,Convenience Store,snap_atlanta_df,1
+-84.59443,33.65105,-84.59443,33.65105,2 Ray's Mart  ,Convenience Store,snap_atlanta_df,1
+-84.59428,33.65076,-84.59428,33.65076,Sam's Supermarket  ,Convenience Store,snap_atlanta_df,1
+-84.58299,33.72569,-84.58299,33.72569,Exxon Food Mart  ,Convenience Store,snap_atlanta_df,1
+-84.57817,33.69919,-84.57817,33.69919,Publix Super Markets Inc 1718,Supermarket,snap_atlanta_df,1
+-84.57755,33.69922,-84.57755,33.69922,CVS Pharmacy 4147,Combination Grocery/Other,snap_atlanta_df,1
+-84.57456,33.72939,-84.57456,33.72939,QUIKTRIP 777,Convenience Store,snap_atlanta_df,1
+-84.56894,33.73156,-84.56894,33.73156,Cascade Shell  ,Convenience Store,snap_atlanta_df,1
+-84.55894,33.70846,-84.55894,33.70846,Citgo Food Mart  ,Convenience Store,snap_atlanta_df,1
+-84.54808,33.59848,-84.54808,33.59848,Roosevelt Chevron  ,Convenience Store,snap_atlanta_df,1
+-84.54677,33.59925,-84.54677,33.59925,Dollar General 21743,Combination Grocery/Other,snap_atlanta_df,1
+-84.53568,33.69621,-84.53568,33.69621,Shell Food Mart  ,Convenience Store,snap_atlanta_df,1
+-84.53469,33.69605,-84.53469,33.69605,Family Dollar 10677,Combination Grocery/Other,snap_atlanta_df,1
+-84.53437,33.69527,-84.534369271497,33.695270127475,Rhinehart Farms LLC,Grocery Store,df_grocery_selected,1
+-84.53436,33.69527,-84.53436,33.69527,Rhinehart Farmer's Market  ,Fruits/Veg Specialty,snap_atlanta_df,1
+-84.53435,33.69615,-84.53435,33.69615,DOLLAR GENERAL 8143,Combination Grocery/Other,snap_atlanta_df,1
+-84.52995,33.76516,-84.52995,33.76516,Chevron Food Mart  ,Convenience Store,snap_atlanta_df,1
+-84.52955,33.76601,-84.52955,33.76601,Fulton Bp Inc  ,Convenience Store,snap_atlanta_df,1
+-84.52798,33.60879,-84.52798,33.60879,Peach Express 2,Convenience Store,snap_atlanta_df,1
+-84.52486,33.61193,-84.52486,33.61193,Quick Pick Food Mart 0,Convenience Store,snap_atlanta_df,1
+-84.52315,33.66404,-84.52315,33.66404,Fairburn Prime  ,Convenience Store,snap_atlanta_df,1
+-84.52097,33.77016,-84.52097,33.77016,Happy Store Citgo  ,Convenience Store,snap_atlanta_df,1
+-84.51994,33.61312,-84.51994,33.61312,FULTON BAY SEAFOOD  ,Combination Grocery/Other,snap_atlanta_df,1
+-84.51678,33.69655,-84.51678,33.69655,Westside Farmers Market  ,Farmers' Market,snap_atlanta_df,1
+-84.51153,33.65703,-84.51153,33.65703,Walgreens 9620,Combination Grocery/Other,snap_atlanta_df,1
+-84.5111,33.69053,-84.5111,33.69053,Cousins Texaco  ,Convenience Store,snap_atlanta_df,1
+-84.51085,33.65638,-84.51085,33.65638,PUBLIX 1056,Supermarket,snap_atlanta_df,1
+-84.51083,33.65646,-84.5108308,33.6564551,Publix Carnia Princeton Lakes,Grocery Store,gdf_selected,1
+-84.51056,33.72318,-84.51056,33.72318,Walgreens 07394,Combination Grocery/Other,snap_atlanta_df,1
+-84.51037,33.69135,-84.51037,33.69135,Family Dollar 2349,Combination Grocery/Other,snap_atlanta_df,1
+-84.51034,33.74091,-84.51034,33.74091,490 Fairburn Rd Llc 0,Convenience Store,snap_atlanta_df,1
+-84.50979,33.7237,-84.50979,33.7237,Fina Food Mart  ,Convenience Store,snap_atlanta_df,1
+-84.50959,33.72373,-84.50959,33.72373,Publix 0503,Supermarket,snap_atlanta_df,1
+-84.50959,33.7385,-84.50959,33.7385,Chevron  ,Convenience Store,snap_atlanta_df,1
+-84.50858,33.76216,-84.50858,33.76216,Prime Chevron  ,Convenience Store,snap_atlanta_df,1
+-84.50764,33.68972,-84.50764,33.68972,Valero Food Mart  ,Convenience Store,snap_atlanta_df,1
+-84.50751,33.76209,-84.50751,33.76209,Quick Foodmart  ,Convenience Store,snap_atlanta_df,1
+-84.50667,33.63153,-84.50667,33.63153,Simply Produce Llc  ,Delivery Route,snap_atlanta_df,1
+-84.50608,33.69008,-84.50608,33.69008,Raceway Campbellton  ,Convenience Store,snap_atlanta_df,1
+-84.50607,33.72306,-84.50607,33.72306,Cascade Shell Food Mart  ,Convenience Store,snap_atlanta_df,1
+-84.5058,33.62145,-84.5058,33.62145,Citgo Roosevelt  ,Convenience Store,snap_atlanta_df,1
+-84.50507,33.7254,-84.50507,33.7254,Walmart Supercenter 3741,Super Store,snap_atlanta_df,1
+-84.50498,33.75924,-84.50498,33.75924,Dollar Tree 7375,Combination Grocery/Other,snap_atlanta_df,1
+-84.50497,33.62195,-84.50497,33.62195,Shell Food Mart  ,Convenience Store,snap_atlanta_df,1
+-84.50407,33.65586,-84.50407,33.65586,BJ's Membership Club 152,Super Store,snap_atlanta_df,1
+-84.50397,33.7579,-84.50397,33.7579,Quick Stop Food Mart  ,Convenience Store,snap_atlanta_df,1
+-84.50382,33.7599,-84.50382,33.7599,Louisiana Atlanta Seafood Market  ,Combination Grocery/Other,snap_atlanta_df,1
+-84.50284,33.75787,-84.50284,33.75787,Dollar General 13836,Combination Grocery/Other,snap_atlanta_df,1
+-84.49963,33.62304,-84.49963,33.62304,Green 4 Life  ,Combination Grocery/Other,snap_atlanta_df,1
+-84.49867,33.59689,-84.49867,33.59689,Buffington Food Mart  ,Convenience Store,snap_atlanta_df,1
+-84.49855,33.59627,-84.49855,33.59627,Dollar General 17866,Combination Grocery/Other,snap_atlanta_df,1
+-84.49748,33.75394,-84.49748,33.75394,MLK Texaco  ,Convenience Store,snap_atlanta_df,1
+-84.49673,33.79082,-84.49673,33.79082,Wk Business Merchandising Llc  ,Convenience Store,snap_atlanta_df,1
+-84.49627,33.76836,-84.49626799999999,33.768357099999996,Gratitude Botanical Farm,AgLanta Grows-A-Lot Site | Farm,gdf_selected,1
+-84.49622,33.67292,-84.49622,33.67292,C & S GROCERIES  ,Convenience Store,snap_atlanta_df,1
+-84.49571,33.7827,-84.49571,33.7827,Petro Atlanta 0322,Convenience Store,snap_atlanta_df,1
+-84.49503,33.65518,-84.49503,33.65518,Circle K #183  ,Convenience Store,snap_atlanta_df,1
+-84.49453,33.78739,-84.49453,33.78739,Star Chevron Food Mart  ,Convenience Store,snap_atlanta_df,1
+-84.49382,33.7533,-84.49382,33.7533,Circle K  ,Convenience Store,snap_atlanta_df,1
+-84.49324,33.75305,-84.49324,33.75305,EZ Shoper  ,Convenience Store,snap_atlanta_df,1
+-84.49313,33.68584,-84.49313,33.68584,Green Apple Food Mart Inc  ,Convenience Store,snap_atlanta_df,1
+-84.49296,33.65384,-84.49296,33.65384,Texaco Foodmart  ,Convenience Store,snap_atlanta_df,1
+-84.49256,33.75284,-84.49256,33.75284,Quick Mart  ,Convenience Store,snap_atlanta_df,1
+-84.4923,33.7522,-84.4923,33.7522,Discount Food Mart  ,Convenience Store,snap_atlanta_df,1
+-84.49024,33.64957,-84.49024,33.64957,Washington Food Mart  ,Convenience Store,snap_atlanta_df,1
+-84.4902,33.75231,-84.49019969999989,33.752306,Allen Hills aka The Commons (lihtc),Garden,gdf_selected,1
+-84.48985,33.65083,-84.48985,33.65083,Sky Mart  ,Convenience Store,snap_atlanta_df,1
+-84.4891,33.69037,-84.4891,33.69037,DOLLAR TREE 4527,Combination Grocery/Other,snap_atlanta_df,1
+-84.48867,33.68929,-84.48867,33.68929,Greenbriar Chevron  ,Convenience Store,snap_atlanta_df,1
+-84.48832,33.75118,-84.48832,33.75118,ZTS Food Mart  ,Convenience Store,snap_atlanta_df,1
+-84.48804,33.6892,-84.4880431,33.6892022,Kroger Headland Dr,Grocery Store,gdf_selected,1
+-84.48674,33.68958,-84.48674,33.68958,Dollar General 19080,Combination Grocery/Other,snap_atlanta_df,1
+-84.48612,33.75114,-84.48612,33.75114,Family Dollar 634 | Wayfield Foods 19,Combination Grocery/Other | Super Store,snap_atlanta_df,1
+-84.48599,33.75081,-84.48599317973249,33.75080567514819,Wayfield Foods,Grocery Store,gdf_selected,1
+-84.48584,33.69634,-84.48584,33.69634,CITGO FOOD MART  ,Convenience Store,snap_atlanta_df,1
+-84.48514,33.69725,-84.48514,33.69725,Chevron Food Mart  ,Convenience Store,snap_atlanta_df,1
+-84.48479,33.84093,-84.48479,33.84093,Shell Food Mart  ,Convenience Store,snap_atlanta_df,1
+-84.48433,33.6901,-84.48433,33.6901,Family Dollar 11892,Combination Grocery/Other,snap_atlanta_df,1
+-84.48365,33.69794,-84.48365,33.69794,Big H Food Mart  ,Convenience Store,snap_atlanta_df,1
+-84.48164,33.6517,-84.48164,33.6517,Big A Food Mart  ,Convenience Store,snap_atlanta_df,1
+-84.48138,33.754,-84.48138,33.754,MLK Coin & Market  ,Convenience Store,snap_atlanta_df,1
+-84.48098,33.58604,-84.48098,33.58604,Neighborhood Food Mart  ,Convenience Store,snap_atlanta_df,1
+-84.48034,33.83783,-84.48034,33.83783,Bengal Green Enterprises  ,Convenience Store,snap_atlanta_df,1
+-84.47997,33.77928,-84.47997,33.77928,Hop In Food Mart  ,Convenience Store,snap_atlanta_df,1
+-84.47741,33.77735,-84.47741,33.77735,Dollar General 22316,Combination Grocery/Other,snap_atlanta_df,1
+-84.47679,33.86478,-84.47679,33.86478,Walgreen 19823,Combination Grocery/Other,snap_atlanta_df,1
+-84.4761,33.75397,-84.4761,33.75397,Texaco Food Mart  ,Convenience Store,snap_atlanta_df,1
+-84.47598,33.81194,-84.47598,33.81194,Busy Bee Grocery  ,Convenience Store,snap_atlanta_df,1
+-84.47577,33.8115,-84.47577,33.8115,Chevron Food Mart  ,Convenience Store,snap_atlanta_df,1
+-84.47568,33.81047,-84.47568,33.81047,Family Dollar 10676,Combination Grocery/Other,snap_atlanta_df,1
+-84.47541,33.70248,-84.47541,33.70248,Camp Food Mart  ,Convenience Store,snap_atlanta_df,1
+-84.47536,33.77731,-84.47536,33.77731,Citgo Food Mart  ,Convenience Store,snap_atlanta_df,1
+-84.47507,33.77774,-84.47506769999998,33.7777367,Buy Low Super Market,Grocery Store,gdf_selected,1
+-84.47501,33.62209,-84.47501,33.62209,Shell Food Mart  ,Convenience Store,snap_atlanta_df,1
+-84.47471,33.62273,-84.47471,33.62273,Chevron Food Mart  ,Convenience Store,snap_atlanta_df,1
+-84.4747,33.77853,-84.4747,33.77853,Low Low Mini Mart  ,Convenience Store,snap_atlanta_df,1
+-84.4744,33.88206,-84.4744,33.88206,Bharath Bazaar  ,Medium Grocery Store,snap_atlanta_df,1
+-84.47409,33.77737,-84.47409,33.77737,BUY LOW SUPERMARKET  ,Supermarket,snap_atlanta_df,1
+-84.47403,33.77619,-84.47403,33.77619,Chevron Food Mart  ,Convenience Store,snap_atlanta_df,1
+-84.47378,33.75378,-84.47378,33.75378,Dollar Tree 5779,Combination Grocery/Other,snap_atlanta_df,1
+-84.47293,33.62835,-84.47293,33.62835,Food Mart  ,Convenience Store,snap_atlanta_df,1
+-84.47273,33.77617,-84.47273,33.77617,Pick N Pay  ,Convenience Store,snap_atlanta_df,1
+-84.47272,33.6149,-84.47272,33.6149,Kansato Mart  ,Medium Grocery Store,snap_atlanta_df,1
+-84.4726,33.75359,-84.4726,33.75359,Mlk Westland Bp Inc.  ,Convenience Store,snap_atlanta_df,1
+-84.47247,33.6188,-84.47247,33.6188,Valero Food Mart  ,Convenience Store,snap_atlanta_df,1
+-84.47221,33.61684,-84.47221,33.61684,Shell Food Mart  ,Convenience Store,snap_atlanta_df,1
+-84.47213,33.78966,-84.4721251,33.7896593,Rolling Bends aka Woodland Heights (lihtc),Garden,gdf_selected,1
+-84.47205,33.58253,-84.47205,33.58253,Family Dollar 8385,Combination Grocery/Other,snap_atlanta_df,1
+-84.47195,33.60699,-84.47195,33.60699,Sawaneh Imports Llc  ,Large Grocery Store,snap_atlanta_df,1
+-84.47195,33.77605,-84.47194789999989,33.776047,Grocery Spot,Grocery Store,gdf_selected,1
+-84.47188,33.81115,-84.471880674582,33.811153710732,Frazie's Meat & Market,Grocery Store,df_grocery_selected,1
+-84.47171,33.77589,-84.47171359999999,33.77589069999999,Discount Meat World,Neighborhood Market,gdf_selected,1
+-84.47157,33.88563,-84.47157,33.88563,JP Cobb Parkway 212,Convenience Store,snap_atlanta_df,1
+-84.47136,33.65088,-84.47136,33.65088,Bp Food Mart  ,Convenience Store,snap_atlanta_df,1
+-84.47122,33.8806,-84.47122,33.8806,Costco Wholesale 0631,Super Store,snap_atlanta_df,1
+-84.47103,33.80549,-84.47103,33.80549,Hollywood 76  ,Convenience Store,snap_atlanta_df,1
+-84.47066,33.86573,-84.47066,33.86573,QUIKTRIP 729,Convenience Store,snap_atlanta_df,1
+-84.47037,33.75438,-84.470368,33.7543775,MARTA Market- HE Holmes,Farmers Market,gdf_selected,1
+-84.47015,33.7753,-84.47015,33.7753,Continental Seafood Inc  ,Seafood Specialty,snap_atlanta_df,1
+-84.4701,33.59058,-84.4701,33.59058,Dollar Tree 1400,Combination Grocery/Other,snap_atlanta_df,1
+-84.46976,33.63522,-84.46976,33.63522,Family Dollar 12249,Combination Grocery/Other,snap_atlanta_df,1
+-84.4696,33.58929,-84.4696,33.58929,Bp Old National  ,Convenience Store,snap_atlanta_df,1
+-84.46948,33.58844,-84.46948,33.58844,Triple S 2022 Investment LLC  ,Convenience Store,snap_atlanta_df,1
+-84.46941,33.79449,-84.46941,33.79449,"Doo Drop Inn Marketplace & Beauty Supply, Inc.  ",Convenience Store,snap_atlanta_df,1
+-84.46899,33.81343,-84.46899,33.81343,Corner Food Mart  ,Convenience Store,snap_atlanta_df,1
+-84.46887,33.59757,-84.46887,33.59757,Caribbean Market  ,Small Grocery Store,snap_atlanta_df,1
+-84.46847,33.77602,-84.46847,33.77602,Sr Food & Meat Mart  ,Convenience Store,snap_atlanta_df,1
+-84.46844,33.6319,-84.46844,33.6319,Ds Food Mart  ,Convenience Store,snap_atlanta_df,1
+-84.46829,33.75204,-84.46829,33.75204,Mlk Food Mart  ,Convenience Store,snap_atlanta_df,1
+-84.46809,33.75556,-84.46809,33.75556,Texaco Food Mart  ,Convenience Store,snap_atlanta_df,1
+-84.46799,33.66443,-84.46799,33.66443,Fresh Market At Oyun Botanical Gardens  ,Farmers' Market,snap_atlanta_df,1
+-84.4679,33.75165,-84.4679,33.75165,Mlk Chevron 2456 Llc  ,Convenience Store,snap_atlanta_df,1
+-84.46673,33.75229,-84.46673,33.75229,CVS Pharmacy 4717,Combination Grocery/Other,snap_atlanta_df,1
+-84.46622,33.66637,-84.46622,33.66637,East Point Food Mart  ,Convenience Store,snap_atlanta_df,1
+-84.46544,33.66631,-84.46544,33.66631,Sure Save Food & Beauty  ,Medium Grocery Store,snap_atlanta_df,1
+-84.46534,33.70461,-84.46534,33.70461,Bingo Food Mart  ,Convenience Store,snap_atlanta_df,1
+-84.46506,33.66654,-84.46506,33.66654,Best For Less  ,Convenience Store,snap_atlanta_df,1
+-84.46295,33.80143,-84.46295259999998,33.801432299999995,Outdoor Fresh Farm,AgLanta Grows-A-Lot Site | Farm,gdf_selected,1
+-84.46288,33.67041,-84.46288,33.67041,Family Dollar Store 10654,Combination Grocery/Other,snap_atlanta_df,1
+-84.4621,33.67014,-84.4621,33.67014,Piggly Wiggly  ,Supermarket,snap_atlanta_df,1
+-84.46178,33.61596,-84.46178,33.61596,Chevron Food Mart  ,Convenience Store,snap_atlanta_df,1
+-84.46162,33.72248,-84.46162,33.72248,CVS Pharmacy 5395,Combination Grocery/Other,snap_atlanta_df,1
+-84.4611,33.67121,-84.4611,33.67121,Citgo Food Shop  ,Convenience Store,snap_atlanta_df,1
+-84.46102,33.78498,-84.46102,33.78498,B And E Food Mart  ,Convenience Store,snap_atlanta_df,1
+-84.46084,33.8821,-84.46084,33.8821,DOLLARTREE 11011,Combination Grocery/Other,snap_atlanta_df,1
+-84.46066,33.90376,-84.46066,33.90376,CVS PHARMACY 2086,Combination Grocery/Other,snap_atlanta_df,1
+-84.46036,33.81834,-84.4603556,33.81834129999999,Marietta Senior Tower (lihtc),Garden,gdf_selected,1
+-84.45998,33.75549,-84.45998,33.75549,Verbena Grocery Mart  ,Convenience Store,snap_atlanta_df,1
+-84.45976,33.70531,-84.45976,33.70531,Pahi African Caribbean Market 2  ,Small Grocery Store,snap_atlanta_df,1
+-84.45944,33.70569,-84.45944,33.70569,Family Dollar 235,Combination Grocery/Other,snap_atlanta_df,1
+-84.45877,33.61585,-84.45877,33.61585,Quick & Cheap  ,Convenience Store,snap_atlanta_df,1
+-84.45823,33.68916,-84.45823,33.68916,Family Dollar 1788,Combination Grocery/Other,snap_atlanta_df,1
+-84.45816,33.70612,-84.45816,33.70612,Amina Mart 1,Convenience Store,snap_atlanta_df,1
+-84.45801,33.70651,-84.45801,33.70651,Lucky Food Mart 0,Convenience Store,snap_atlanta_df,1
+-84.4576,33.7058,-84.4576,33.7058,Exxon Food Mart  ,Convenience Store,snap_atlanta_df,1
+-84.45697,33.70044,-84.45697,33.70044,Food Center ,Convenience Store,snap_atlanta_df,1
+-84.45695,33.68886,-84.45695,33.68886,Quick Stop  ,Convenience Store,snap_atlanta_df,1
+-84.45693,33.68949,-84.45693,33.68949,Chevron Food Mart  ,Convenience Store,snap_atlanta_df,1
+-84.45685,33.70522,-84.4568508,33.7052209,Super Giant,Grocery Store,gdf_selected,1
+-84.45682,33.70111,-84.45682,33.70111,Hungry Mart  ,Convenience Store,snap_atlanta_df,1
+-84.45657,33.70105,-84.45657,33.70105,Alison Food Mart  ,Convenience Store,snap_atlanta_df,1
+-84.45656,33.70709,-84.4565629,33.7070934,Fruit Veggies & Herbs,Neighborhood Market,gdf_selected,1
+-84.45647,33.70039,-84.456471635241,33.700385141978,NEIGHBORHOOD 2070 INC,Grocery Store,df_grocery_selected,1
+-84.45643,33.78185,-84.45643,33.78185,H & R Food Mart  ,Convenience Store,snap_atlanta_df,1
+-84.45605,33.70752,-84.45605,33.70752,Villa Food Mart  ,Convenience Store,snap_atlanta_df,1
+-84.45593,33.70699,-84.45593,33.70699,Dollar Tree 7560,Combination Grocery/Other,snap_atlanta_df,1
+-84.45538,33.82124,-84.45538,33.82124,Race Trac 2421,Convenience Store,snap_atlanta_df,1
+-84.45387,33.8207,-84.45387,33.8207,Dollar Tree 6839,Combination Grocery/Other,snap_atlanta_df,1
+-84.45365,33.75031,-84.45365,33.75031,West View Food Mart  ,Convenience Store,snap_atlanta_df,1
+-84.45201,33.77677,-84.45201,33.77677,Family Dollar 6030,Combination Grocery/Other,snap_atlanta_df,1
+-84.45174,33.76487,-84.45174,33.76487,Ak Food Store  ,Convenience Store,snap_atlanta_df,1
+-84.45147,33.77773,-84.45147,33.77773,Fountain Of Hope 1,Food Buying Co-op,snap_atlanta_df,1
+-84.45116,33.82056,-84.45116,33.82056,CVS Pharmacy 4661,Combination Grocery/Other,snap_atlanta_df,1
+-84.45002,33.82063,-84.45002,33.82063,Carniceria Ramirez  ,Medium Grocery Store,snap_atlanta_df,1
+-84.44992,33.61646,-84.44992,33.61646,U S Amoco ,Convenience Store,snap_atlanta_df,1
+-84.44987,33.81853,-84.44987,33.81853,Publix 1226,Supermarket,snap_atlanta_df,1
+-84.44985,33.8216,-84.44985,33.8216,Food Mart 0,Convenience Store,snap_atlanta_df,1
+-84.44972,33.65124,-84.44972,33.65124,Big AJ Store 2,Convenience Store,snap_atlanta_df,1
+-84.44957,33.81941,-84.4495743,33.8194051,Publix Moores Mill Center,Grocery Store,gdf_selected,1
+-84.44926,33.61403,-84.44926,33.61403,Fayetville Food Mart  ,Convenience Store,snap_atlanta_df,1
+-84.44893,33.61339,-84.44893,33.61339,Ruta Inc  ,Convenience Store,snap_atlanta_df,1
+-84.44873,33.77551,-84.44873,33.77551,Best 4 Less  ,Convenience Store,snap_atlanta_df,1
+-84.44872,33.77552,-84.448721392289,33.77551553481,Duniya Investment INC,Grocery Store,df_grocery_selected,1
+-84.44809,33.66094,-84.44809,33.66094,Eden Fresh Market #11  ,Super Store,snap_atlanta_df,1
+-84.44807,33.65891,-84.44807,33.65891,Chevron Food Mart  ,Convenience Store,snap_atlanta_df,1
+-84.44804,33.69895,-84.44804,33.69895,East Point Food Mart  ,Convenience Store,snap_atlanta_df,1
+-84.44781,33.75088,-84.44781,33.75088,Quick Mart Food  ,Convenience Store,snap_atlanta_df,1
+-84.44657,33.75064,-84.44657,33.75064,Quick Mart  ,Convenience Store,snap_atlanta_df,1
+-84.4463,33.67583,-84.4463,33.67583,Washington Seafood Market  ,Seafood Specialty,snap_atlanta_df,1
+-84.44582,33.72584,-84.44582,33.72584,Cascade Food Mart  ,Convenience Store,snap_atlanta_df,1
+-84.44553,33.66594,-84.44553,33.66594,Stop N Shop Food Mart #2 1,Convenience Store,snap_atlanta_df,1
+-84.44553,33.72644,-84.44553,33.72644,A & M Corner  ,Convenience Store,snap_atlanta_df,1
+-84.44427,33.6072,-84.44427,33.6072,Wayfield Foods 3,Super Store,snap_atlanta_df,1
+-84.44422,33.6696,-84.44422,33.6696,Tienda Y Carniceria El Ejido  ,Convenience Store,snap_atlanta_df,1
+-84.44411,33.71146,-84.44411,33.71146,CHEVRON FOOD MART  ,Convenience Store,snap_atlanta_df,1
+-84.4437,33.75117,-84.4437,33.75117,Speedzone Chevron  ,Convenience Store,snap_atlanta_df,1
+-84.44358,33.75114,-84.44358,33.75114,Speedzone Shell  ,Convenience Store,snap_atlanta_df,1
+-84.44318,33.67686,-84.44318,33.67686,Q's Meat Market Inc  ,Meat/Poultry Specialty,snap_atlanta_df,1
+-84.44247,33.74849,-84.44247,33.74849,Bp Food Mart  ,Convenience Store,snap_atlanta_df,1
+-84.44242,33.65943,-84.44242,33.65943,Exxon Food Mart  ,Convenience Store,snap_atlanta_df,1
+-84.44224,33.77327,-84.44224,33.77327,Westlake Food Mart  ,Convenience Store,snap_atlanta_df,1
+-84.44165,33.67535,-84.44165,33.67535,CVS Pharmacy 4424,Combination Grocery/Other,snap_atlanta_df,1
+-84.44161,33.6592,-84.44161,33.6592,Family Dollar 7189,Combination Grocery/Other,snap_atlanta_df,1
+-84.44128,33.67726,-84.44128,33.67726,East Point Food Market  ,Convenience Store,snap_atlanta_df,1
+-84.44112,33.77238,-84.44112,33.77238,SOUTHEASTERN MEATS  & FISH  ,Large Grocery Store,snap_atlanta_df,1
+-84.4411,33.67868,-84.4411,33.67868,East Point Convenience  ,Convenience Store,snap_atlanta_df,1
+-84.44069,33.71255,-84.44068989999998,33.7125514,Campbellton Community Garden,AgLanta Grows-A-Lot Site,gdf_selected,1
+-84.44067,33.68335,-84.44067,33.68335,Shell East Point  ,Convenience Store,snap_atlanta_df,1
+-84.4387,33.74374,-84.43869610000002,33.74374190000001,Westview Corner Grocery,Neighborhood Market,gdf_selected,1
+-84.43861,33.74369,-84.43861,33.74369,Westview Corner Grocery  ,Medium Grocery Store,snap_atlanta_df,1
+-84.43824,33.81013,-84.43824,33.81013,Shell Food Mart  ,Convenience Store,snap_atlanta_df,1
+-84.43763,33.60657,-84.43763,33.60657,One Stop Food Mart  ,Convenience Store,snap_atlanta_df,1
+-84.43755,33.73384,-84.43755,33.73384,Cascade Food Mart  ,Convenience Store,snap_atlanta_df,1
+-84.43657,33.6112,-84.43657,33.6112,Sun Food Market  ,Convenience Store,snap_atlanta_df,1
+-84.4361,33.80174,-84.4361,33.80174,Gas Express LLC dba Circle K 164,Convenience Store,snap_atlanta_df,1
+-84.43605,33.61087,-84.43605,33.61087,Kom Pong Thom Market  ,Small Grocery Store,snap_atlanta_df,1
+-84.43598,33.60837,-84.43598,33.60837,QUIKTRIP 724,Convenience Store,snap_atlanta_df,1
+-84.4359,33.6075,-84.4359,33.6075,International Fresh Seafood  ,Seafood Specialty,snap_atlanta_df,1
+-84.43582,33.60734,-84.43582,33.60734,Family Dollar Store 2678,Combination Grocery/Other,snap_atlanta_df,1
+-84.43565,33.60655,-84.43565,33.60655,Lee Market & Cafe  ,Small Grocery Store,snap_atlanta_df,1
+-84.43497,33.73783,-84.43497,33.73783,Gas Express LLC dba Circle K 142,Convenience Store,snap_atlanta_df,1
+-84.43494,33.7303,-84.4349424,33.7302977,West Atlanta Watershed Alliance,Food Forest,gdf_selected,1
+-84.43476,33.60667,-84.43476,33.60667,Harbour Food Mart  ,Convenience Store,snap_atlanta_df,1
+-84.43446,33.71457,-84.43446,33.71457,Maya Food Market  ,Convenience Store,snap_atlanta_df,1
+-84.43398,33.77064,-84.43398,33.77064,Big A Food Mart  ,Convenience Store,snap_atlanta_df,1
+-84.43388,33.73865,-84.43388,33.73865,KROGER  412,Super Store,snap_atlanta_df,1
+-84.43346,33.77112,-84.43346,33.77112,Chappell Road Inc  ,Convenience Store,snap_atlanta_df,1
+-84.43336,33.76331,-84.43336,33.76331,Pick N Pay  ,Convenience Store,snap_atlanta_df,1
+-84.43315,33.73781,-84.4331505,33.73780849999999,Kroger Cascade Citi Center,Grocery Store,gdf_selected,1
+-84.43298,33.65905,-84.43298,33.65905,Shell Food Mart  ,Convenience Store,snap_atlanta_df,1
+-84.43227,33.73894,-84.4322723,33.7389376,West End Beltline Farmers Market,Farmers Market,gdf_selected,1
+-84.43118,33.90446,-84.43118,33.90446,CVS Pharmacy 4729,Combination Grocery/Other,snap_atlanta_df,1
+-84.43096,33.73053,-84.4309579999999,33.73053399999999,Patchwork City Farms,Farm,gdf_selected,1
+-84.43057,33.67974,-84.43057,33.67974,Food Mart  ,Convenience Store,snap_atlanta_df,1
+-84.43035,33.85077,-84.43035,33.85077,Whole Foods Market 10697,Super Store,snap_atlanta_df,1
+-84.43005,33.73488,-84.43005,33.73488,Donnelly Provisions  ,Convenience Store,snap_atlanta_df,1
+-84.43003,33.73453,-84.43003,33.73453,Donnelly Food Mart  ,Convenience Store,snap_atlanta_df,1
+-84.42999,33.72085,-84.4299891,33.72084869999999,Gilliams Community Garden,Farm,gdf_selected,1
+-84.42983,33.85023,-84.42982579999999,33.8502279,Whole Foods 365 Market,Grocery Store,gdf_selected,1
+-84.4285,33.59747,-84.4285,33.59747,Bp Garden Walk  ,Convenience Store,snap_atlanta_df,1
+-84.42848,33.59982,-84.42848,33.59982,Chevron Food Mart  ,Convenience Store,snap_atlanta_df,1
+-84.42796,33.849,-84.42796,33.849,PUBLIX  0720,Supermarket,snap_atlanta_df,1
+-84.42786,33.84739,-84.42786,33.84739,CVS Pharmacy 4665,Combination Grocery/Other,snap_atlanta_df,1
+-84.42785,33.84822,-84.42785229999998,33.8482184,Publix West Paces Ferry,Grocery Store,gdf_selected,1
+-84.42763,33.60076,-84.42763,33.60076,Family Dollar Store 4220,Combination Grocery/Other,snap_atlanta_df,1
+-84.42735,33.78603,-84.42735,33.78603,Chevron Food Mart  ,Convenience Store,snap_atlanta_df,1
+-84.42724,33.60087,-84.42724,33.60087,Super Giant Mart  ,Supermarket,snap_atlanta_df,1
+-84.4269,33.72828,-84.4269,33.72828,Oakland City Food Mart  ,Convenience Store,snap_atlanta_df,1
+-84.4269,33.80076,-84.4269,33.80076,Gas Express LLC dba Circle K 134,Convenience Store,snap_atlanta_df,1
+-84.42609,33.81227,-84.42608819999998,33.81226949999999,Herbs & Kettles (Noble Roots Urban Garden),Farm,gdf_selected,1
+-84.42602,33.73856,-84.42602,33.73856,Family Dollar 1728,Combination Grocery/Other,snap_atlanta_df,1
+-84.42575,33.81161,-84.42575,33.81161,Ez Market  ,Convenience Store,snap_atlanta_df,1
+-84.42568,33.76382,-84.42568,33.76382,Henrys Pack N Sack  ,Convenience Store,snap_atlanta_df,1
+-84.42456,33.72061,-84.42456,33.72061,Lee Street Meats & Grocery  ,Small Grocery Store,snap_atlanta_df,1
+-84.42456,33.72062,-84.424564831157,33.720616457854,Lee Street Meats LLC,Grocery Store,df_grocery_selected,1
+-84.42453,33.72066,-84.42452910000002,33.720659299999994,"Lee Street Meats, Seafood, and Grocery",Meat Market,gdf_selected,1
+-84.42423,33.70579,-84.4242282,33.70579219999999,Concrete Jungle's Dog Head Farm,Farm,gdf_selected,1
+-84.42385,33.69783,-84.42385,33.69783,Sylvan Station Inc  ,Convenience Store,snap_atlanta_df,1
+-84.42372,33.74262,-84.4237205,33.74261859999999,Atlanta Good shepard Agro-ecology,Farm,gdf_selected,1
+-84.42323,33.68142,-84.42323,33.68142,Cleveland Foodmart & Grocery Llc  ,Convenience Store,snap_atlanta_df,1
+-84.42307,33.7226,-84.42307,33.7226,Lee Food Mart  ,Convenience Store,snap_atlanta_df,1
+-84.42249,33.71735,-84.42249109999999,33.71734609999999,1055 Arden Ave. (lihtc),Garden,gdf_selected,1
+-84.42119,33.65907,-84.42119,33.65907,Food Mart  ,Convenience Store,snap_atlanta_df,1
+-84.42108,33.72458,-84.42108,33.72458,Lee Petro  ,Convenience Store,snap_atlanta_df,1
+-84.42075,33.77322,-84.42075,33.77322,Good Sam Market  ,Farmers' Market,snap_atlanta_df,1
+-84.4206,33.7736,-84.42060499999998,33.773600200000004,The Farm at Good Sam (Health Center) | The Market at Good Sam (Health Center),Farm | Farmers Market,gdf_selected,1
+-84.41881,33.77525,-84.41881,33.77525,Retaaza 1 | The MARTA Markets  ,Delivery Route,snap_atlanta_df,1
+-84.41866,33.6809,-84.41866,33.6809,Larrys Quick Stop 1,Convenience Store,snap_atlanta_df,1
+-84.41839,33.73645,-84.4183925999999,33.7364546,Big Bear Foods,Neighborhood Market,gdf_selected,1
+-84.41826,33.69901,-84.41826,33.69901,Quality Meat Market  ,Medium Grocery Store,snap_atlanta_df,1
+-84.41824,33.68114,-84.41824,33.68114,Chevron Food Mart  ,Convenience Store,snap_atlanta_df,1
+-84.41784,33.77236,-84.41784,33.77236,Lowery Food Mart N/A,Convenience Store,snap_atlanta_df,1
+-84.41778,33.73848,-84.417781020916,33.738480482254,Atlanta Food n Market,Grocery Store,df_grocery_selected,1
+-84.41776,33.7367,-84.41776,33.7367,Big Bear Supermarket  ,Super Store,snap_atlanta_df,1
+-84.41776,33.73917,-84.41776,33.73917,Lt New Orleans Seafood Market  ,Seafood Specialty,snap_atlanta_df,1
+-84.41774,33.76322,-84.41774,33.76322,GX Market  ,Convenience Store,snap_atlanta_df,1
+-84.41772,33.73953,-84.41772,33.73953,Family Dollar 6509,Combination Grocery/Other,snap_atlanta_df,1
+-84.41772,33.76379,-84.41772,33.76379,Chevron Food Mart 0,Convenience Store,snap_atlanta_df,1
+-84.41771,33.7009,-84.41771,33.7009,Eastpoint Grocery  ,Convenience Store,snap_atlanta_df,1
+-84.41764,33.69912,-84.41763519999989,33.6991241,Quality Meat Market,Neighborhood Market,gdf_selected,1
+-84.41756,33.74567,-84.41756,33.74567,Gas Express LLC dba Circle K 153,Convenience Store,snap_atlanta_df,1
+-84.41756,33.75859,-84.41756,33.75859,Neighbors Market N/A,Convenience Store,snap_atlanta_df,1
+-84.41739,33.76859,-84.41739,33.76859,Lowery Food Mart  ,Convenience Store,snap_atlanta_df,1
+-84.41714,33.7381,-84.41714,33.7381,CVS Pharmacy 4178,Combination Grocery/Other,snap_atlanta_df,1
+-84.41685,33.7727,-84.41685,33.7727,Bankhead Shell  ,Convenience Store,snap_atlanta_df,1
+-84.41652,33.73803,-84.41651779999998,33.7380262,Wadada Healthy Market and Juice Bar,Neighborhood Market,gdf_selected,1
+-84.416,33.79989,-84.416,33.79989,Quik Trip 0832,Convenience Store,snap_atlanta_df,1
+-84.41556,33.80137,-84.41556,33.80137,KROGER  346,Super Store,snap_atlanta_df,1
+-84.41474,33.81021,-84.41474079999992,33.8102137,Publix Super Market Howell Mill Village,Grocery Store,gdf_selected,1
+-84.41458,33.80353,-84.41458,33.80353,Shell Food Mart  ,Convenience Store,snap_atlanta_df,1
+-84.41449,33.73359,-84.41449,33.73359,Food N Fun  ,Convenience Store,snap_atlanta_df,1
+-84.41442,33.73805,-84.41442482379,33.738051864197,MD STORE LLC,Grocery Store,df_grocery_selected,1
+-84.41432,33.80116,-84.4143189,33.8011648,Kroger Howell Mill,Grocery Store,gdf_selected,1
+-84.41425,33.77283,-84.41425,33.77283,Family Dollar 6501,Combination Grocery/Other,snap_atlanta_df,1
+-84.41415,33.73286,-84.41415,33.73286,Discount Mart Llc  ,Convenience Store,snap_atlanta_df,1
+-84.41409,33.75539,-84.41409,33.75539,Walmart 7601,Super Store,snap_atlanta_df,1
+-84.41407,33.68186,-84.41407,33.68186,BP Food Mart  ,Convenience Store,snap_atlanta_df,1
+-84.41372,33.79438,-84.41371699999989,33.79437999999999,Floral Park Market,Neighborhood Market,gdf_selected,1
+-84.41361,33.77025,-84.413612617372,33.770252160621,MORGAN'S GROCERY,Grocery Store,df_grocery_selected,1
+-84.41354,33.66196,-84.41354,33.66196,Hapeville Mart ,Convenience Store,snap_atlanta_df,1
+-84.41317,33.80671,-84.41317,33.80671,Shell Food Mart  ,Convenience Store,snap_atlanta_df,1
+-84.41275,33.81024,-84.41275,33.81024,PUBLIX 1119 | Walgreens 17037,Combination Grocery/Other | Supermarket,snap_atlanta_df,1
+-84.41267,33.71843,-84.412666971056,33.718433013986,"Simply Organic Market, Inc.",Grocery Store,df_grocery_selected,1
+-84.4115,33.76349,-84.4115,33.76349,Shoppers Supermarket  ,Convenience Store,snap_atlanta_df,1
+-84.41144,33.80348,-84.41143929999998,33.8034755,Walmart Howell Mill,Supercenter,gdf_selected,1
+-84.41076,33.77283,-84.41076,33.77283,Bp Food Mart  ,Convenience Store,snap_atlanta_df,1
+-84.41027,33.6816,-84.41027,33.6816,Citgo Food Mart  ,Convenience Store,snap_atlanta_df,1
+-84.4094,33.62828,-84.4094,33.62828,Bp To-go  ,Convenience Store,snap_atlanta_df,1
+-84.40933,33.77874,-84.409327620831,33.778740094872,ARDEN GARDEN,Grocery Store,df_grocery_selected,1
+-84.40889,33.68786,-84.40889,33.68786,Vp Food Mart  ,Convenience Store,snap_atlanta_df,1
+-84.40868,33.65836,-84.40868,33.65836,NATURE'S OWN HERB SHOP 1,Convenience Store,snap_atlanta_df,1
+-84.40864,33.68711,-84.40864,33.68711,Shell Food Mart  ,Convenience Store,snap_atlanta_df,1
+-84.4086,33.74176,-84.4086,33.74176,Whitehall Exxon  ,Convenience Store,snap_atlanta_df,1
+-84.4084,33.68246,-84.4084002,33.682455399999895,Kroger Metropolitan Pkwy,Grocery Store,gdf_selected,1
+-84.40817,33.71647,-84.40817,33.71647,Corner Grocery  ,Convenience Store,snap_atlanta_df,1
+-84.40816,33.68057,-84.40816,33.68057,Walgreens 11488,Combination Grocery/Other,snap_atlanta_df,1
+-84.40816,33.72319,-84.40816,33.72319,Midway Exxon  ,Convenience Store,snap_atlanta_df,1
+-84.40804,33.78141,-84.40804,33.78141,QuikTrip 805,Convenience Store,snap_atlanta_df,1
+-84.40801,33.70165,-84.40801,33.70165,Family Dollar 12070,Combination Grocery/Other,snap_atlanta_df,1
+-84.40783,33.78424,-84.40783,33.78424,Lidl 1584,Super Store,snap_atlanta_df,1
+-84.40781,33.68261,-84.40781,33.68261,KROGER  364,Super Store,snap_atlanta_df,1
+-84.40781,33.74001,-84.40781,33.74001,Chevron Food Mart  ,Convenience Store,snap_atlanta_df,1
+-84.4077,33.68163,-84.4077,33.68163,Dollar General 19011,Combination Grocery/Other,snap_atlanta_df,1
+-84.40768,33.697,-84.40768,33.697,Atlanta Texaco/ Ez Market 0,Convenience Store,snap_atlanta_df,1
+-84.40765,33.70382,-84.40765,33.70382,Food Mart  ,Convenience Store,snap_atlanta_df,1
+-84.40759,33.72255,-84.40759,33.72255,Atlanta Food Mart  ,Convenience Store,snap_atlanta_df,1
+-84.40746,33.69889,-84.40746,33.69889,Dollar Tree 5242,Combination Grocery/Other,snap_atlanta_df,1
+-84.40746,33.78188,-84.40746,33.78188,Best For Less  ,Convenience Store,snap_atlanta_df,1
+-84.40737,33.75269,-84.40737057209789,33.75268929375749,Goodr at APS Services Hub,Emergency Food Relief,gdf_selected,1
+-84.40735,33.68333,-84.40735,33.68333,Lucky 7 Food Mart  ,Convenience Store,snap_atlanta_df,1
+-84.4071,33.78587,-84.4071,33.78587,Market at 14th Shell  ,Convenience Store,snap_atlanta_df,1
+-84.40644,33.74633,-84.40644,33.74633,Northside Texaco  ,Convenience Store,snap_atlanta_df,1
+-84.40576,33.77381,-84.40576,33.77381,Tech Shop & Run  ,Convenience Store,snap_atlanta_df,1
+-84.40542,33.73206,-84.40542,33.73206,Pittsburgh Mart  ,Convenience Store,snap_atlanta_df,1
+-84.4053,33.65708,-84.4053,33.65708,Citgo Food Mart  ,Convenience Store,snap_atlanta_df,1
+-84.40501,33.76983,-84.40501,33.76983,Benz Food Mart  ,Convenience Store,snap_atlanta_df,1
+-84.40439,33.73632,-84.40439,33.73632,Community Kitchen N Pantry  ,Convenience Store,snap_atlanta_df,1
+-84.40408,33.75037,-84.40408,33.75037,Flowers Bakery Outlet 144,Convenience Store,snap_atlanta_df,1
+-84.40353,33.61209,-84.40353,33.61209,Exxon Food Mart  ,Convenience Store,snap_atlanta_df,1
+-84.40335,33.7434,-84.40335,33.7434,Whitehall Shell  ,Convenience Store,snap_atlanta_df,1
+-84.4031,33.69531,-84.40309769999989,33.69531219999999,Earth Dog Farm,Farm,gdf_selected,1
+-84.40279,33.65533,-84.40279,33.65533,Tienda Y Carniceria Santacruz  ,Medium Grocery Store,snap_atlanta_df,1
+-84.40256,33.75269,-84.40256,33.75269,Northside Food Mart  ,Convenience Store,snap_atlanta_df,1
+-84.40241,33.65512,-84.40241,33.65512,Carniceria La Esperanza  ,Medium Grocery Store,snap_atlanta_df,1
+-84.40227,33.65567,-84.40227,33.65567,City Food Market  ,Medium Grocery Store,snap_atlanta_df,1
+-84.40221,33.73236,-84.4022052,33.73236049999999,Pyramid Grocery,Neighborhood Market,gdf_selected,1
+-84.40215,33.68161,-84.40215,33.68161,12 Hours LLC | 12hours Food Mart  ,Convenience Store | Grocery Store,df_grocery_selected | snap_atlanta_df,2
+-84.40193,33.72757,-84.40193,33.72757,"McDaniel Store, LLC | Welcome Foods Mcdaniel  ",Convenience Store | Grocery Store,df_grocery_selected | snap_atlanta_df,2
+-84.40174,33.72131,-84.40173599999999,33.72131,Pittsburgh Community Market,Farmers Market,gdf_selected,1
+-84.40173,33.7323,-84.40173,33.7323,Pyramid  ,Convenience Store,snap_atlanta_df,1
+-84.40118,33.68087,-84.40118,33.68087,Quick Save/Shell Food Mart  ,Convenience Store,snap_atlanta_df,1
+-84.40078,33.73896,-84.4007759,33.738957,Whitehall Terrace Community Garden,AgLanta Grows-A-Lot Site,gdf_selected,1
+-84.39977,33.72119,-84.399771580659,33.721187139731,Pittsburgh Community Market,Grocery Store,df_grocery_selected,1
+-84.3993,33.702,-84.3993,33.702,Neighbourhood Market  ,Convenience Store,snap_atlanta_df,1
+-84.39929,33.79319,-84.39929,33.79319,Target Store T-2137  ,Super Store,snap_atlanta_df,1
+-84.39885,33.70726,-84.39885,33.70726,Big Brother Mini Supermarket  ,Convenience Store,snap_atlanta_df,1
+-84.39846,33.73799,-84.39846,33.73799,Mami Grocery & Deli  ,Small Grocery Store,snap_atlanta_df,1
+-84.39797,33.78639,-84.39797,33.78639,Bp Food Mart  ,Convenience Store,snap_atlanta_df,1
+-84.39793,33.74109,-84.39793,33.74109,Windsor Supermarket  ,Convenience Store,snap_atlanta_df,1
+-84.39793,33.79284,-84.39793,33.79284,PUBLIX 1010,Supermarket,snap_atlanta_df,1
+-84.39787,33.79273,-84.39787149999998,33.7927258,Publix Super Market Atlantic Station,Grocery Store,gdf_selected,1
+-84.3967,33.68143,-84.3967,33.68143,BP Cleveland  ,Convenience Store,snap_atlanta_df,1
+-84.3967,33.74924,-84.39670199999989,33.749245,5 Points Community Garden,AgLanta Grows-A-Lot Site (legacy),gdf_selected,1
+-84.39616,33.76516,-84.39616,33.76516,LUCKIE STREET GROCERY  ,Convenience Store,snap_atlanta_df,1
+-84.39576,33.67996,-84.39576089999998,33.6799581,Piggly Wiggly,Grocery Store,gdf_selected,1
+-84.39573,33.68012,-84.39573,33.68012,75 Farmers Market  ,Supermarket,snap_atlanta_df,1
+-84.39556,33.68144,-84.39556099999999,33.6814375,El Progreso #1,Neighborhood Market,gdf_selected,1
+-84.39555,33.68114,-84.39555,33.68114,CARNICERIA Y TIENDA EL PROGRESO  ,Medium Grocery Store,snap_atlanta_df,1
+-84.39417,33.68139,-84.39417,33.68139,Cleveland Stop  ,Convenience Store,snap_atlanta_df,1
+-84.39417,33.74907,-84.39417,33.74907,BK Food Mart  ,Convenience Store,snap_atlanta_df,1
+-84.39397,33.80648,-84.39397,33.80648,Shell Food Mart  ,Convenience Store,snap_atlanta_df,1
+-84.3939,33.70907,-84.3939,33.70907,3 Way Grocery  ,Convenience Store,snap_atlanta_df,1
+-84.39379,33.73656,-84.39379,33.73656,Abernathy Bp  ,Convenience Store,snap_atlanta_df,1
+-84.39378,33.71394,-84.39378,33.71394,A&b Foodmart 1,Convenience Store,snap_atlanta_df,1
+-84.39351,33.75782,-84.39351,33.75782,Castleberry Farmers Market 1,Farmers' Market,snap_atlanta_df,1
+-84.39307,33.80797,-84.39307,33.80797,CVS PHARMACY 2082,Combination Grocery/Other,snap_atlanta_df,1
+-84.39298,33.72356,-84.392977377583,33.723559595516,Fly Seafood Market,Grocery Store,df_grocery_selected,1
+-84.39297,33.72356,-84.39297,33.72356,Pryor Gas and Food  ,Convenience Store,snap_atlanta_df,1
+-84.39294,33.69921,-84.39294,33.69921,BP Food Mart  ,Convenience Store,snap_atlanta_df,1
+-84.3928,33.72287,-84.3928,33.72287,CHEVRON FOOD MART  ,Convenience Store,snap_atlanta_df,1
+-84.39264,33.72194,-84.39264,33.72194,University Bp Food Mart  ,Convenience Store,snap_atlanta_df,1
+-84.3922,33.81193,-84.3922,33.81193,The Fresh Market 061,Supermarket,snap_atlanta_df,1
+-84.3917,33.75399,-84.391697,33.7539909,MARTA Market - Five Points Fresh,Farmers Market,gdf_selected,1
+-84.39163,33.81574,-84.3916280999999,33.8157417,Peachtree Senior Tower (lihtc),Garden,gdf_selected,1
+-84.39141,33.81195,-84.3914135,33.811948599999994,The Fresh Market PeachtreeRd,Grocery Store,gdf_selected,1
+-84.39068,33.75622,-84.39068,33.75622,Walton Food Mart  ,Convenience Store,snap_atlanta_df,1
+-84.39043,33.75517,-84.39043,33.75517,Gateway Newstand  ,Convenience Store,snap_atlanta_df,1
+-84.39012,33.75937,-84.39012,33.75937,Circle K 26655984,Convenience Store,snap_atlanta_df,1
+-84.38947,33.77065,-84.38947,33.77065,BP Gas Station  ,Convenience Store,snap_atlanta_df,1
+-84.38933,33.75433,-84.38933,33.75433,Azalea Fresh Market  ,Supermarket,snap_atlanta_df,1
+-84.38853,33.81951,-84.3885349,33.8195099,Publix Peachtree Battle,Grocery Store,gdf_selected,1
+-84.38851,33.6809,-84.38851,33.6809,24 Hour Food Mart  ,Convenience Store,snap_atlanta_df,1
+-84.3884,33.68136,-84.3884,33.68136,24/7 Food Mart  ,Convenience Store,snap_atlanta_df,1
+-84.38832,33.73034,-84.38832,33.73034,Discount Food Mart  ,Convenience Store,snap_atlanta_df,1
+-84.38827,33.78586,-84.3882659,33.7858568,Whole Foods Midtown,Grocery Store,gdf_selected,1
+-84.38826,33.75991,-84.38826,33.75991,Peach Mart  ,Convenience Store,snap_atlanta_df,1
+-84.38804,33.7796,-84.38804399999998,33.77959930000001,Publix West Peachtree Midtown,Grocery Store,gdf_selected,1
+-84.38795,33.78659,-84.38795,33.78659,Whole Foods 10650,Super Store,snap_atlanta_df,1
+-84.38784,33.75723,-84.38784,33.75723,CVS Pharmacy 02757,Combination Grocery/Other,snap_atlanta_df,1
+-84.38773,33.73945,-84.38773,33.73945,Publix Super Market 1825,Supermarket,snap_atlanta_df,1
+-84.3877,33.79609,-84.3877,33.79609,Uptown Station Inc  ,Convenience Store,snap_atlanta_df,1
+-84.38767,33.82011,-84.38767,33.82011,PUBLIX  0719,Supermarket,snap_atlanta_df,1
+-84.38766,33.73204,-84.387655204343,33.732038603039,"HANK AARON GROCERY, LLC",Grocery Store,df_grocery_selected,1
+-84.38755,33.76044,-84.38755,33.76044,CVS 10043,Combination Grocery/Other,snap_atlanta_df,1
+-84.38739,33.8303,-84.38738779999998,33.8302972,Peachtree Rd Farmers Market,Farmers Market,gdf_selected,1
+-84.38726,33.82976,-84.38726,33.82976,PEACHTREE ROAD FARMERS MARKET  ,Farmers' Market,snap_atlanta_df,1
+-84.38713,33.73908,-84.3871346,33.7390788,Publix Super Market Summerhill,Grocery Store,gdf_selected,1
+-84.38706,33.73885,-84.387062184693,33.738851036755,"Publix Super Markets, Inc.",Grocery Store,df_grocery_selected,1
+-84.38654,33.81977,-84.38654,33.81977,Walgreens 19047,Combination Grocery/Other,snap_atlanta_df,1
+-84.38606,33.7685,-84.3860644,33.7684962,Eat Right Atlanta - Emory Midtown,Mobile Food Market,gdf_selected,1
+-84.38528,33.71919,-84.38528159999998,33.7191877,Carver Neighborhood Market,Neighborhood Market,gdf_selected,1
+-84.38489,33.71867,-84.38489,33.71867,Carver Neighborhood Market  ,Small Grocery Store,snap_atlanta_df,1
+-84.38477,33.68072,-84.38477,33.68072,A Food Mart  ,Convenience Store,snap_atlanta_df,1
+-84.38471,33.70235,-84.38471,33.70235,Exxon Food Mart  ,Convenience Store,snap_atlanta_df,1
+-84.38441,33.77753,-84.38441,33.77753,CVS Pharmacy 2943,Combination Grocery/Other,snap_atlanta_df,1
+-84.38432,33.77781,-84.38432,33.77781,QuikTrip 1700,Convenience Store,snap_atlanta_df,1
+-84.38431,33.78105,-84.38430769999998,33.7810517,Savi Provisions,Neighborhood Market,gdf_selected,1
+-84.38425,33.73933,-84.38425,33.73933,Jds Summerhill Variety Deli  ,Convenience Store,snap_atlanta_df,1
+-84.38424,33.73936,-84.38423550000002,33.7393561,JD Summerhill Variety Deli,Neighborhood Market,gdf_selected,1
+-84.38387,33.77866,-84.38387,33.77866,Dollar General 21822,Combination Grocery/Other,snap_atlanta_df,1
+-84.38369,33.75466,-84.38369,33.75466,K Stop  ,Convenience Store,snap_atlanta_df,1
+-84.38324,33.72712,-84.38324,33.72712,Father And Son Superette  ,Convenience Store,snap_atlanta_df,1
+-84.38319,33.75134,-84.3831934999999,33.75133699999999,Jesse Hill Marker -Grady Food Pharmacy,Neighborhood Market,gdf_selected,1
+-84.38307,33.83373,-84.38307,33.83373,Walgreens 09303,Combination Grocery/Other,snap_atlanta_df,1
+-84.38301,33.85614,-84.38301,33.85614,Buckhead Shoppe  ,Convenience Store,snap_atlanta_df,1
+-84.38286,33.83415,-84.3828587,33.83415339999999,Publix Super Market The Peach,Grocery Store,gdf_selected,1
+-84.38271,33.85471,-84.38271,33.85471,Walgreens 10422,Combination Grocery/Other,snap_atlanta_df,1
+-84.38262,33.75748,-84.38262,33.75748,BP Food Mart  ,Convenience Store,snap_atlanta_df,1
+-84.38219,33.71807,-84.38219319999999,33.7180667,Lakewood Food Mart,Neighborhood Market,gdf_selected,1
+-84.38218,33.71806,-84.38218,33.71806,Lakewood Food Mart  ,Convenience Store,snap_atlanta_df,1
+-84.38207,33.77251,-84.38207,33.77251,Bp Food Mart  ,Convenience Store,snap_atlanta_df,1
+-84.38193,33.84064,-84.381928604274,33.840638605804,"WHOLE FOODS  MARKET GROUP, INC | Whole Foods Market Buckhead",Grocery Store,df_grocery_selected | gdf_selected,2
+-84.38188,33.77022,-84.38188,33.77022,WALGREENS  6032,Combination Grocery/Other,snap_atlanta_df,1
+-84.38166,33.89031,-84.38166,33.89031,Roswell Food Mart  ,Convenience Store,snap_atlanta_df,1
+-84.38143,33.77254,-84.38143,33.77254,Chevron Food Mart  ,Convenience Store,snap_atlanta_df,1
+-84.38136,33.85747,-84.381360646515,33.857470515118,ARDEN'S GARDEN,Grocery Store,df_grocery_selected,1
+-84.38129,33.83999,-84.38129,33.83999,Whole Foods Market 10206,Super Store,snap_atlanta_df,1
+-84.38127,33.89136,-84.38127,33.89136,Quick Shop 2,Convenience Store,snap_atlanta_df,1
+-84.38123,33.91103,-84.38123,33.91103,Supermercado Santa Fe  ,Medium Grocery Store,snap_atlanta_df,1
+-84.38117,33.7705,-84.3811748,33.770495399999994,Publix Piedmont,Grocery Store,gdf_selected,1
+-84.38112,33.84327,-84.381123103379,33.843267505915,LUCY'S MARKET,Grocery Store,df_grocery_selected,1
+-84.38109,33.75558,-84.38109,33.75558,Sweet Auburn Grocery  ,Convenience Store,snap_atlanta_df,1
+-84.381,33.87148,-84.381,33.87148,Publix 0718,Supermarket,snap_atlanta_df,1
+-84.38099,33.89992,-84.38099,33.89992,Chevron Foodmart  ,Convenience Store,snap_atlanta_df,1
+-84.38078,33.91789,-84.38078,33.91789,Dollar Tree 2230 | WHOLE FOODS MARKET 10136,Combination Grocery/Other | Super Store,snap_atlanta_df,1
+-84.38062,33.87334,-84.38062,33.87334,Roswell Chevron  ,Convenience Store,snap_atlanta_df,1
+-84.38042,33.92821,-84.38042,33.92821,ALDI 76020 | Los Pinos ,Large Grocery Store | Supermarket,snap_atlanta_df,1
+-84.38036,33.70831,-84.38036,33.70831,Food Mart  ,Convenience Store,snap_atlanta_df,1
+-84.3802,33.90618,-84.3802,33.90618,Target 2333,Super Store,snap_atlanta_df,1
+-84.38013,33.91097,-84.38013,33.91097,IGUALA MEAT MARKET   | La Canasta Supermercado #! Ste #6,Medium Grocery Store,snap_atlanta_df,1
+-84.38011,33.70686,-84.38011,33.70686,Family Dollar 11425,Combination Grocery/Other,snap_atlanta_df,1
+-84.38002,33.87534,-84.38002,33.87534,The Fresh Market 084,Supermarket,snap_atlanta_df,1
+-84.38001,33.75436,-84.38001,33.75436,Parks Meat Market Llc Dba Country Meat Market  ,Meat/Poultry Specialty,snap_atlanta_df,1
+-84.38001,33.75437,-84.38001,33.75437,Atlantic Seafood  ,Seafood Specialty,snap_atlanta_df,1
+-84.37995,33.78173,-84.37995,33.78173,Midtown Market 225  ,Convenience Store,snap_atlanta_df,1
+-84.37991,33.75402,-84.37991399999999,33.7540215,The Municipal Market- Sweet Auburn,Neighborhood Market,gdf_selected,1
+-84.3799,33.75437,-84.3799,33.75437,D & J Market  ,Meat/Poultry Specialty,snap_atlanta_df,1
+-84.3799,33.87447,-84.3798997,33.874474000000006,The Fresh Market RoswellRd,Grocery Store,gdf_selected,1
+-84.37988,33.75405,-84.37988,33.75405,"City Produce   | Garden Market ATL  | Market Pharmacy, Inc   | Porky Pig Market Company   | SH PRODUCE-MARKET LLC | SH Produce   | Yunny LLC",Combination Grocery/Other | Convenience Store | Fruits/Veg Specialty | Grocery Store | Meat/Poultry Specialty | Medium Grocery Store,df_grocery_selected | snap_atlanta_df,2
+-84.37982,33.88057,-84.37982,33.88057,CVS Pharmacy 5411,Combination Grocery/Other,snap_atlanta_df,1
+-84.37975,33.7444,-84.37975,33.7444,Hill Street Shell  ,Convenience Store,snap_atlanta_df,1
+-84.37975,33.87852,-84.37975,33.87852,Walgreens 10265,Combination Grocery/Other,snap_atlanta_df,1
+-84.37962,33.70964,-84.37962,33.70964,MAULIA INC | Quick Pick Foodmart  ,Convenience Store | Grocery Store,df_grocery_selected | snap_atlanta_df,2
+-84.37944,33.74678,-84.37944,33.74678,Bp Food Mart 0,Convenience Store,snap_atlanta_df,1
+-84.37942,33.87786,-84.37942,33.87786,Shell Food Mart  ,Convenience Store,snap_atlanta_df,1
+-84.37933,33.91544,-84.37933,33.91544,Shell Food Mart  ,Convenience Store,snap_atlanta_df,1
+-84.3793,33.87122,-84.3792964,33.8712214,Publix Roswell Chastain Sq,Grocery Store,gdf_selected,1
+-84.3791,33.93076,-84.3791,33.93076,Shahrzad  ,Medium Grocery Store,snap_atlanta_df,1
+-84.37888,33.91025,-84.37888,33.91025,Bakkal International Foods  ,Small Grocery Store,snap_atlanta_df,1
+-84.37882,33.91054,-84.37882,33.91054,SANDY SPRINGS CHEVRON  ,Convenience Store,snap_atlanta_df,1
+-84.37863,33.78386,-84.37863,33.78386,Piedmont Park Green Market  ,Farmers' Market,snap_atlanta_df,1
+-84.3786,33.91877,-84.3786,33.91877,Bp Foodmart Corner  ,Convenience Store,snap_atlanta_df,1
+-84.37858,33.7839,-84.37858039999989,33.783898,Green Market at Piedmont Park,Farmers Market,gdf_selected,1
+-84.37828,33.7496,-84.37828,33.7496,Intown Market  ,Convenience Store,snap_atlanta_df,1
+-84.37753,33.92421,-84.37753,33.92421,Mount Vernon Food Mart  ,Convenience Store,snap_atlanta_df,1
+-84.37747,33.776,-84.3774678,33.7759962,L & M Market,Neighborhood Market,gdf_selected,1
+-84.37733,33.83737,-84.3773314,33.83737459999999,Savi Provisions,Neighborhood Market,gdf_selected,1
+-84.37704,33.72505,-84.3770394,33.7250514,Grant Park Community Farmers Market,Farmers Market,gdf_selected,1
+-84.37679,33.93602,-84.37679,33.93602,PUBLIX 0468,Supermarket,snap_atlanta_df,1
+-84.3756,33.69267,-84.3756025,33.69267250000001,Urban Food Forest at Browns Mill,AgLanta Grows-A-Lot Site (legacy),gdf_selected,1
+-84.37505,33.84133,-84.37505,33.84133,Trader Joe's 735,Supermarket,snap_atlanta_df,1
+-84.37501,33.7542,-84.37501,33.7542,Goodr Community Market On Edgewood  ,Convenience Store,snap_atlanta_df,1
+-84.37499,33.84095,-84.3749866,33.8409526,Trader Joe's Buckhead,Grocery Store,gdf_selected,1
+-84.37475,33.84608,-84.37475,33.84608,"Publix Super Markets, Inc. 1867",Supermarket,snap_atlanta_df,1
+-84.37466,33.75465,-84.37466,33.75465,Edgewood Foodmart Inc.  ,Convenience Store,snap_atlanta_df,1
+-84.37397,33.84615,-84.373972166504,33.846150251965,"Publix Super Markets, Inc.",Grocery Store,df_grocery_selected,1
+-84.37325,33.84251,-84.37325,33.84251,Aldi 76001,Supermarket,snap_atlanta_df,1
+-84.37324,33.84249,-84.37324,33.84249,CVS PHARMACY 5731,Combination Grocery/Other,snap_atlanta_df,1
+-84.37284,33.80076,-84.37283919999999,33.800756400000004,Kroger Ansley Mall,Grocery Store,gdf_selected,1
+-84.37245,33.84091,-84.37244789999998,33.84091449999999,ALDI - Buckhead,Grocery Store,gdf_selected,1
+-84.37241,33.81176,-84.37241,33.81176,Plaster Shell & Food  ,Convenience Store,snap_atlanta_df,1
+-84.37223,33.67235,-84.37223,33.67235,Pure Food Mart  ,Convenience Store,snap_atlanta_df,1
+-84.37211,33.67246,-84.37211,33.67246,"Jones Prime, LLC  ",Convenience Store,snap_atlanta_df,1
+-84.37192,33.80102,-84.37192,33.80102,KROGER  298,Super Store,snap_atlanta_df,1
+-84.37174,33.77097,-84.37174,33.77097,North Avenue Food Mart  ,Convenience Store,snap_atlanta_df,1
+-84.37167,33.76454,-84.37167,33.76454,Boulevard Lotto Grocery  ,Convenience Store,snap_atlanta_df,1
+-84.37146,33.79792,-84.37145509999989,33.7979202,Publix Super Market Ansley Mall,Grocery Store,gdf_selected,1
+-84.37123,33.77388,-84.37123,33.77388,Shell Food Mart  ,Convenience Store,snap_atlanta_df,1
+-84.37083,33.74615,-84.37083,33.74615,Grant Park Market  ,Combination Grocery/Other,snap_atlanta_df,1
+-84.37075,33.68846,-84.37074669999998,33.6884569,Crack In the Sidewalk Farmlet,Farm,gdf_selected,1
+-84.37075,33.74666,-84.37074600522348,33.74665842019531,Grant Park Market,Neighborhood Market,gdf_selected,1
+-84.37013,33.75209,-84.370127387517,33.752091635834,"Midtown Pantry, LLC",Grocery Store,df_grocery_selected,1
+-84.36977,33.78851,-84.36977470000001,33.788510599999995,Sean's Harvest Market,Neighborhood Market,gdf_selected,1
+-84.3696,33.79646,-84.3696,33.79646,Publix 599,Supermarket,snap_atlanta_df,1
+-84.36922,33.77918,-84.36922189999999,33.779183599999996,Trader Joe's Monroe,Grocery Store,gdf_selected,1
+-84.36865,33.74458,-84.36865,33.74458,CHEVRON FOOD MART  ,Convenience Store,snap_atlanta_df,1
+-84.36856,33.71429,-84.36856,33.71429,Carniceria Y Tienda El Progreso 14,Medium Grocery Store,snap_atlanta_df,1
+-84.36848,33.81037,-84.36848,33.81037,Monroe Drive Chevron  ,Convenience Store,snap_atlanta_df,1
+-84.36836,33.78142,-84.36836279999999,33.7814205,Midtown Butcher Shop,Neighborhood Market,gdf_selected,1
+-84.36835,33.83662,-84.36835,33.83662,BP Food Mart  ,Convenience Store,snap_atlanta_df,1
+-84.36832,33.71437,-84.36831789999998,33.714369,El Progreso #14,Neighborhood Market,gdf_selected,1
+-84.36813,33.7405,-84.36813,33.7405,CVS Pharmacy 7336,Combination Grocery/Other,snap_atlanta_df,1
+-84.3681,33.73709,-84.3681,33.73709,Grant Park Farmers Market  ,Farmers' Market,snap_atlanta_df,1
+-84.36789,33.74922,-84.36789249999998,33.7492211,Little's Food Store,Neighborhood Market,gdf_selected,1
+-84.36786,33.739,-84.3678616999999,33.7390046,Bennett's Market and Deli,Neighborhood Market,gdf_selected,1
+-84.36784,33.80574,-84.367844995283,33.805739001281,Mawa African market LLC,Grocery Store,df_grocery_selected,1
+-84.36774,33.74216,-84.36774,33.74216,448 QM LLC  ,Convenience Store,snap_atlanta_df,1
+-84.36763,33.77993,-84.36763,33.77993,Trader Joe's 730,Supermarket,snap_atlanta_df,1
+-84.36698,33.82235,-84.36697549999998,33.822353,Fiesta Foods,Neighborhood Market,gdf_selected,1
+-84.36692,33.82326,-84.36692,33.82326,Chevron Buckhead  ,Convenience Store,snap_atlanta_df,1
+-84.36688,33.80624,-84.36688,33.80624,Sprouts Farmers Market 519,Supermarket,snap_atlanta_df,1
+-84.36635,33.64935,-84.36635,33.64935,Exxon Gas Station  ,Convenience Store,snap_atlanta_df,1
+-84.36623,33.809,-84.36623,33.809,Circle K #251  ,Convenience Store,snap_atlanta_df,1
+-84.36602,33.77335,-84.36602,33.77335,Ponce City Farmers Market  ,Farmers' Market,snap_atlanta_df,1
+-84.36599,33.77465,-84.36598839999989,33.7746531,Whole Foods Ponce,Grocery Store,gdf_selected,1
+-84.36595,33.80663,-84.365952,33.806627899999995,Sprouts Farmers Market,Grocery Store,gdf_selected,1
+-84.36587,33.82271,-84.3658698999999,33.822712499999994,Kroger Lindbergh,Grocery Store,gdf_selected,1
+-84.36555,33.96015,-84.36555,33.96015,Walgreens 6204,Combination Grocery/Other,snap_atlanta_df,1
+-84.36529,33.82217,-84.36529,33.82217,Kroger's 626,Super Store,snap_atlanta_df,1
+-84.36486,33.686,-84.364860534838,33.686000371206,LMN MART INC,Grocery Store,df_grocery_selected,1
+-84.36485,33.95485,-84.36485,33.95485,Gas Express LLC dba Circle K 222,Convenience Store,snap_atlanta_df,1
+-84.36479,33.77337,-84.36479,33.77337,CVS PHARMACY 3878,Combination Grocery/Other,snap_atlanta_df,1
+-84.36439,33.77137,-84.3643877,33.7713701,Signal House,Garden,gdf_selected,1
+-84.36436,33.9548,-84.36436,33.9548,North Springs  ,Convenience Store,snap_atlanta_df,1
+-84.36404,33.72752,-84.36404,33.72752,C & S MEAT CO  ,Meat/Poultry Specialty,snap_atlanta_df,1
+-84.36404,33.95603,-84.36404,33.95603,CVS PHARMACY 7974,Combination Grocery/Other,snap_atlanta_df,1
+-84.36352,33.7717,-84.3635202999999,33.7717048,Kroger Ponce,Grocery Store,gdf_selected,1
+-84.36343,33.77437,-84.3634349,33.77437449999999,Ponix Farm,Farm,gdf_selected,1
+-84.36339,33.64838,-84.363385319879,33.648380629555,BROTHERS INVESTMENT 2024 LLC,Grocery Store,df_grocery_selected,1
+-84.36338,33.64837,-84.36338,33.64837,Conley Food Mart  ,Convenience Store,snap_atlanta_df,1
+-84.36327,33.77367,-84.36327,33.77367,Kroger 695,Super Store,snap_atlanta_df,1
+-84.3631,33.82375,-84.36310089999989,33.82374979999999,Target PiedmontLinPlaza,Supercenter,gdf_selected,1
+-84.3631,33.82449,-84.3631,33.82449,TARGET STORE T-2171  ,Super Store,snap_atlanta_df,1
+-84.36253,33.82568,-84.36253,33.82568,QUIKTRIP 744,Convenience Store,snap_atlanta_df,1
+-84.36096,33.74033,-84.36096,33.74033,Kroger 672,Super Store,snap_atlanta_df,1
+-84.36083,33.69697,-84.36083,33.69697,Norwood Food Mart  ,Convenience Store,snap_atlanta_df,1
+-84.3602,33.74235,-84.3601955,33.7423496,Kroger Glenwood Place,Grocery Store,gdf_selected,1
+-84.35945,33.70938,-84.35945,33.70938,Tanner's Corner Grocery 0,Convenience Store,snap_atlanta_df,1
+-84.35902,33.77443,-84.359016839582,33.774426851317,ARABI 2015 INC,Grocery Store,df_grocery_selected,1
+-84.35889,33.70876,-84.35889,33.70876,Exxon Food Mart 1,Convenience Store,snap_atlanta_df,1
+-84.3587,33.85157,-84.3587,33.85157,Publix 664 | Target Store 1197,Super Store | Supermarket,snap_atlanta_df,1
+-84.3585,33.85182,-84.3584999999999,33.85182410000001,Publix Lenox | Target PeachtreeLenox,Grocery Store | Supercenter,gdf_selected,1
+-84.35784,33.76235,-84.3578402,33.7623486,Savi Provisions,Neighborhood Market,gdf_selected,1
+-84.35782,33.76234,-84.357819149437,33.762340356485,"MSTD Management, LLC",Grocery Store,df_grocery_selected,1
+-84.35764,33.97304,-84.35764,33.97304,QUIKTRIP 711,Convenience Store,snap_atlanta_df,1
+-84.3575,33.81162,-84.35749946365,33.811617774801,JC Tropical Market,Grocery Store,df_grocery_selected,1
+-84.35724,33.76743,-84.35724459999999,33.7674332,Freedom Farmers Market,Farmers Market,gdf_selected,1
+-84.35698,33.7451,-84.3569844,33.7451036,Publix Madison Yards,Grocery Store,gdf_selected,1
+-84.35674,33.74654,-84.35674,33.74654,Publix 1647,Supermarket,snap_atlanta_df,1
+-84.35625,33.79349,-84.35625,33.79349,Morningside Farmers Market  ,Farmers' Market,snap_atlanta_df,1
+-84.35585,33.76834,-84.35585,33.76834,Freedom Farmers' Market  ,Farmers' Market,snap_atlanta_df,1
+-84.35562,33.75154,-84.35562029999998,33.75153709999999,Reynoldstown Farmers Market,Farmers Market,gdf_selected,1
+-84.35529,33.75153,-84.35529,33.75153,Reynoldstown Farmers Market  ,Farmers' Market,snap_atlanta_df,1
+-84.35498,33.94743,-84.35498,33.94743,Costco Wholesale 0188,Super Store,snap_atlanta_df,1
+-84.35462,33.78322,-84.35462429999998,33.78321789999999,Tuscany at Your Table,Neighborhood Market,gdf_selected,1
+-84.35445,33.77287,-84.3544514,33.772873999999995,Publix Super Market Ponce,Grocery Store,gdf_selected,1
+-84.35439,33.77287,-84.35439,33.77287,PUBLIX  0724,Supermarket,snap_atlanta_df,1
+-84.35438,33.73597,-84.3543835,33.73597139999999,Urban Farm of Ormewood - Farmer Red,Farm,gdf_selected,1
+-84.35427,33.78247,-84.35427,33.78247,Virginia Highland Farmers Market  ,Farmers' Market,snap_atlanta_df,1
+-84.3539,33.78214,-84.35389679999999,33.78213559999998,Virginia Highland District Community Farmers Market,Farmers Market,gdf_selected,1
+-84.35381,33.78225,-84.35381,33.78225,Kinship Butcher Sundry  ,Meat/Poultry Specialty,snap_atlanta_df,1
+-84.35325,33.9906,-84.35325,33.9906,Dollar Tree 2323,Combination Grocery/Other,snap_atlanta_df,1
+-84.35292,33.81438,-84.35292,33.81438,Mercado Acapulco Llc  ,Medium Grocery Store,snap_atlanta_df,1
+-84.35291,33.8144,-84.35291329999998,33.81440200000001,Mercado Acapulco Y Taqueria,Neighborhood Market,gdf_selected,1
+-84.35275,33.77817,-84.35275,33.77817,CVS Pharmacy 4604,Combination Grocery/Other,snap_atlanta_df,1
+-84.35247,33.93309,-84.35247,33.93309,West End Farmers Market ATL  ,Farmers' Market,snap_atlanta_df,1
+-84.35229,33.7922,-84.3522948,33.7921966,Morningside Farmers Market,Farmers Market,gdf_selected,1
+-84.35216,33.81617,-84.35216,33.81617,Quick Mart  ,Convenience Store,snap_atlanta_df,1
+-84.35184,33.91897,-84.35184,33.91897,Walgreens 11796,Combination Grocery/Other,snap_atlanta_df,1
+-84.35179,33.99095,-84.35179,33.99095,His Promise Supermarket  ,Medium Grocery Store,snap_atlanta_df,1
+-84.35142,33.81816,-84.35142,33.81816,AAA 2317 Inc  ,Convenience Store,snap_atlanta_df,1
+-84.35139,33.81895,-84.35139,33.81895,Publix 1044,Supermarket,snap_atlanta_df,1
+-84.35065,33.99762,-84.35065,33.99762,Dollar General 19083,Combination Grocery/Other,snap_atlanta_df,1
+-84.35048,33.72002,-84.35047609999998,33.720024099999996,Piggly Wiggly,Grocery Store,gdf_selected,1
+-84.35022,33.71372,-84.3502202999999,33.7137182,ALDI - SE Atlanta,Grocery Store,gdf_selected,1
+-84.35004,33.99735,-84.35004,33.99735,BP Convenience Store  ,Convenience Store,snap_atlanta_df,1
+-84.35003,33.70884,-84.35003,33.70884,Amigo Food Mart  ,Convenience Store,snap_atlanta_df,1
+-84.34972,33.7245,-84.34972,33.7245,Moreland Food Mart  ,Convenience Store,snap_atlanta_df,1
+-84.34971,33.76378,-84.34971,33.76378,Circle K #185  ,Convenience Store,snap_atlanta_df,1
+-84.34969,33.75275,-84.34969,33.75275,Texaco Food Mart  ,Convenience Store,snap_atlanta_df,1
+-84.34961,33.98193,-84.34961,33.98193,Roswell Exxon  ,Convenience Store,snap_atlanta_df,1
+-84.34959,33.74683,-84.34959,33.74683,Texaco Food Mart  ,Convenience Store,snap_atlanta_df,1
+-84.34958,33.70107,-84.34958,33.70107,Moreland Supermarket  ,Convenience Store,snap_atlanta_df,1
+-84.34956,33.74711,-84.3495629999999,33.747112,The Spotted Trotter- Edgewood,Neighborhood Market,gdf_selected,1
+-84.34956,33.76454,-84.34956,33.76454,Moreland Food Mart  ,Convenience Store,snap_atlanta_df,1
+-84.34955,33.98111,-84.34955,33.98111,Chevron  ,Convenience Store,snap_atlanta_df,1
+-84.34954,33.99661,-84.34954,33.99661,Texaco Food Mart  ,Convenience Store,snap_atlanta_df,1
+-84.34953,33.71399,-84.34953,33.71399,ALDI 69093 69093,Supermarket,snap_atlanta_df,1
+-84.34953,33.71468,-84.34953,33.71468,CVS Pharmacy 81,Combination Grocery/Other,snap_atlanta_df,1
+-84.34953,33.71599,-84.34953,33.71599,Ans Three D Inc 0,Convenience Store,snap_atlanta_df,1
+-84.34952,33.7201,-84.34952,33.7201,Piggly Wiggly 77,Supermarket,snap_atlanta_df,1
+-84.3495,33.72074,-84.3495,33.72074,DOLLAR GENERAL 8589,Combination Grocery/Other,snap_atlanta_df,1
+-84.34945,33.71515,-84.34945,33.71515,DOLLARTREE 10310,Combination Grocery/Other,snap_atlanta_df,1
+-84.34939,33.72282,-84.34939,33.72282,KROGER STORE  488,Super Store,snap_atlanta_df,1
+-84.34935,33.77381,-84.34935,33.77381,Jena Investment Inc  ,Convenience Store,snap_atlanta_df,1
+-84.34904,33.81856,-84.3490382999999,33.8185617,Publix Cheshire Sq,Grocery Store,gdf_selected,1
+-84.34903,33.74361,-84.34903,33.74361,Shell Food Mart  ,Convenience Store,snap_atlanta_df,1
+-84.34864,33.76725,-84.34864,33.76725,Sevananda Natural Foods Cooperative  ,Super Store,snap_atlanta_df,1
+-84.34854,33.76704,-84.3485359,33.767035299999996,Sevananda Natural Foods Market,Neighborhood Market,gdf_selected,1
+-84.34807,33.75614,-84.34807359999989,33.756145,Kroger Edgewood Retail District,Grocery Store,gdf_selected,1
+-84.34785,33.7571,-84.34785,33.7571,KROGER 461,Super Store,snap_atlanta_df,1
+-84.34652,33.75674,-84.3465169999999,33.75674169999999,Target Caroline,Supercenter,gdf_selected,1
+-84.34609,33.75676,-84.34609,33.75676,Target Store T-1964,Super Store,snap_atlanta_df,1
+-84.34465,33.7386,-84.34465,33.7386,East Atlanta Village Farmers Market 0135438,Farmers' Market,snap_atlanta_df,1
+-84.34441,33.73844,-84.3444067,33.7384449,A Sip of Paradise (EAV Edible Learning Garden) | East Atlanta Village Community Farmers Market,Community Garden | Farmers Market,gdf_selected,1
+-84.34418,33.83078,-84.34418,33.83078,Sh2800 Llc  ,Convenience Store,snap_atlanta_df,1
+-84.34365,33.99052,-84.34365,33.99052,QUIKTRIP 730,Convenience Store,snap_atlanta_df,1
+-84.34247,33.74773,-84.3424661999999,33.7477341,Chop Shop,Neighborhood Market,gdf_selected,1
+-84.3411,33.83352,-84.3411,33.83352,CVS Pharmacy 5376,Combination Grocery/Other,snap_atlanta_df,1
+-84.3409,33.929,-84.3409,33.929,Target Store T-2036,Super Store,snap_atlanta_df,1
+-84.34023,33.93293,-84.34023,33.93293,QuikTrip 1717,Convenience Store,snap_atlanta_df,1
+-84.33932,33.93283,-84.33932,33.93283,Publix 1758,Supermarket,snap_atlanta_df,1
+-84.33848,33.74784,-84.3384818999999,33.74783969999999,Unearthing Farm & Market,Farm,gdf_selected,1
+-84.33726,33.74771,-84.3372626,33.7477143,Unearthing Farm & Market,Farmers Market,gdf_selected,1
+-84.33717,33.92382,-84.33717,33.92382,Circle Food Shop 32,Convenience Store,snap_atlanta_df,1
+-84.33702,33.83637,-84.33702,33.83637,Brito Supermarket  ,Combination Grocery/Other,snap_atlanta_df,1
+-84.33585,33.80656,-84.33585,33.80656,QUIKTRIP 745,Convenience Store,snap_atlanta_df,1
+-84.33558,33.73037,-84.33558,33.73037,Discount Food Mart  ,Convenience Store,snap_atlanta_df,1
+-84.33539,33.86987,-84.33539,33.86987,Publix 1363,Supermarket,snap_atlanta_df,1
+-84.33505,33.81672,-84.33505,33.81672,The Kosher Gourmet  ,Combination Grocery/Other,snap_atlanta_df,1
+-84.3349,33.9488,-84.3349,33.9488,Walgreens 07167,Combination Grocery/Other,snap_atlanta_df,1
+-84.33456,33.82445,-84.33456,33.82445,Briarcliff Quickmart  ,Convenience Store,snap_atlanta_df,1
+-84.33437,33.94708,-84.33437,33.94708,CVS PHARMACY 4537,Combination Grocery/Other,snap_atlanta_df,1
+-84.33365,33.76509,-84.3336492,33.7650947,Candler Park Market,Neighborhood Market,gdf_selected,1
+-84.3336,33.74782,-84.3336,33.74782,L & C Food Mart Llc  ,Convenience Store,snap_atlanta_df,1
+-84.33337,33.82738,-84.33337,33.82738,Dollar Tree 3667,Combination Grocery/Other,snap_atlanta_df,1
+-84.33278,33.74743,-84.33278,33.74743,K-Food Mart  ,Convenience Store,snap_atlanta_df,1
+-84.33224,33.74708,-84.33224,33.74708,Stop N Go Food Mart  ,Convenience Store,snap_atlanta_df,1
+-84.33041,33.82801,-84.33041,33.82801,Walgreens 12262,Combination Grocery/Other,snap_atlanta_df,1
+-84.32915,33.82729,-84.32915,33.82729,QUIKTRIP 723,Convenience Store,snap_atlanta_df,1
+-84.32841,33.89397,-84.32841,33.89397,JP Dunwoody 208,Convenience Store,snap_atlanta_df,1
+-84.32678,33.78826,-84.32678,33.78826,CVS Pharmacy 4720,Combination Grocery/Other,snap_atlanta_df,1
+-84.32674,33.74023,-84.32674,33.74023,Texaco Food Mart  ,Convenience Store,snap_atlanta_df,1
+-84.32666,33.74743,-84.32666,33.74743,Broadway Chevron  ,Convenience Store,snap_atlanta_df,1
+-84.32663,33.74707,-84.32663,33.74707,Lidl 1453,Super Store,snap_atlanta_df,1
+-84.32579,33.84561,-84.32579,33.84561,Ez Shop  ,Convenience Store,snap_atlanta_df,1
+-84.32535,33.89186,-84.32535,33.89186,Walgreens 7741,Combination Grocery/Other,snap_atlanta_df,1
+-84.32506,33.8284,-84.32506,33.8284,Target Store T-1486,Super Store,snap_atlanta_df,1
+-84.32456,33.89056,-84.32456,33.89056,CVS Pharmacy 2083 | PUBLIX  601,Combination Grocery/Other | Supermarket,snap_atlanta_df,1
+-84.32286,33.75092,-84.32286,33.75092,BP Gas Station  ,Convenience Store,snap_atlanta_df,1
+-84.3226,33.7263,-84.3226,33.7263,Neighbourhood Food Mart  ,Convenience Store,snap_atlanta_df,1
+-84.32185,33.72546,-84.32185,33.72546,Family Dollar Store 7463,Combination Grocery/Other,snap_atlanta_df,1
+-84.32117,33.78099,-84.32117,33.78099,CVS Pharmacy 7689,Combination Grocery/Other,snap_atlanta_df,1
+-84.31787,33.7225,-84.31787,33.7225,Flatshoals Bp  ,Convenience Store,snap_atlanta_df,1
+-84.31546,33.91888,-84.31546,33.91888,Chamblee Quick Mart  ,Convenience Store,snap_atlanta_df,1
+-84.31518,33.8862,-84.31518,33.8862,Whole Foods Market 10649,Super Store,snap_atlanta_df,1
+-84.3138,33.81562,-84.3138,33.81562,KROGER  318,Super Store,snap_atlanta_df,1
+-84.31357,33.8554,-84.31357,33.8554,KROGER 218,Super Store,snap_atlanta_df,1
+-84.31316,33.73869,-84.31316,33.73869,PUBLIX  0783,Supermarket,snap_atlanta_df,1
+-84.3123,33.81849,-84.3123,33.81849,CVS PHARMACY 4513,Combination Grocery/Other,snap_atlanta_df,1
+-84.31213,33.8365,-84.31213,33.8365,QuikTrip 0838,Convenience Store,snap_atlanta_df,1
+-84.31162,33.9281,-84.31162,33.9281,Indian Bazaar  ,Convenience Store,snap_atlanta_df,1
+-84.31135,33.74004,-84.31135,33.74004,Texaco Food Mart  ,Convenience Store,snap_atlanta_df,1
+-84.31129,33.84265,-84.31129,33.84265,Sam's Club 6643,Super Store,snap_atlanta_df,1
+-84.31124,33.85872,-84.31124,33.85872,Merkato Market Llc  ,Small Grocery Store,snap_atlanta_df,1
+-84.31099,33.81638,-84.31099,33.81638,The Spicy Peach  ,Convenience Store,snap_atlanta_df,1
+-84.31077,33.68546,-84.31077,33.68546,Pilot Travel Center 331,Convenience Store,snap_atlanta_df,1
+-84.31075,33.71951,-84.31075,33.71951,American Food Mart  ,Convenience Store,snap_atlanta_df,1
+-84.31069,33.68775,-84.31069,33.68775,Family Dollar Store 2641,Combination Grocery/Other,snap_atlanta_df,1
+-84.31068,33.68689,-84.31068,33.68689,Food Town Market  ,Supermarket,snap_atlanta_df,1
+-84.31056,33.8135,-84.31056,33.8135,PUBLIX  0773,Supermarket,snap_atlanta_df,1
+-84.31055,33.73954,-84.31055,33.73954,Halal Madina Market  ,Combination Grocery/Other,snap_atlanta_df,1
+-84.31042,33.7188,-84.31042,33.7188,Walmart SUPERCENTER 3709,Super Store,snap_atlanta_df,1
+-84.31042,33.85805,-84.31042,33.85805,ALDI 79071 79071,Supermarket,snap_atlanta_df,1
+-84.30997,33.71504,-84.30997,33.71504,Texaco Food Mart  ,Convenience Store,snap_atlanta_df,1
+-84.30951,33.86568,-84.30951,33.86568,RaceTrac 2448,Convenience Store,snap_atlanta_df,1
+-84.30946,33.86082,-84.30946,33.86082,New Bismillah Supermarket  ,Medium Grocery Store,snap_atlanta_df,1
+-84.30943,33.86501,-84.30943,33.86501,CVS Pharmacy 2526,Combination Grocery/Other,snap_atlanta_df,1
+-84.30909,33.86118,-84.30909,33.86118,QUIKTRIP 797,Convenience Store,snap_atlanta_df,1
+-84.30885,33.85994,-84.30885,33.85994,"Carniceria Mi Pueblo, Inc.  2  ",Supermarket,snap_atlanta_df,1
+-84.30798,33.68176,-84.30798,33.68176,Food & Gas  ,Convenience Store,snap_atlanta_df,1
+-84.30798,33.86418,-84.30798,33.86418,Supermercado Talpa 15 LLC 13,Super Store,snap_atlanta_df,1
+-84.3057,33.89459,-84.3057,33.89459,QUIKTRIP 773,Convenience Store,snap_atlanta_df,1
+-84.30514,33.89513,-84.30514,33.89513,Walgreens 2359,Combination Grocery/Other,snap_atlanta_df,1
+-84.30322,33.86631,-84.30322,33.86631,Shell Food Mart 1,Convenience Store,snap_atlanta_df,1
+-84.30173,33.95859,-84.30173,33.95859,CVS/Pharmacy 4733,Combination Grocery/Other,snap_atlanta_df,1
+-84.30157,33.89878,-84.30157,33.89878,Publix Super Market 1777,Supermarket,snap_atlanta_df,1
+-84.30128,33.89193,-84.30128,33.89193,Buchanan's Food Store  ,Convenience Store,snap_atlanta_df,1
+-84.30096,33.96059,-84.30096,33.96059,KROGER 324,Super Store,snap_atlanta_df,1
+-84.29947,33.86489,-84.29947,33.86489,Sonora Supermercado 01,Medium Grocery Store,snap_atlanta_df,1
+-84.29714,33.91901,-84.29714,33.91901,Mobil Food Mart  ,Convenience Store,snap_atlanta_df,1
+-84.29685,33.91824,-84.29685,33.91824,Circle K AAMCO NO,Convenience Store,snap_atlanta_df,1
+-84.29676,33.91891,-84.29676,33.91891,Peachtree Shell  ,Convenience Store,snap_atlanta_df,1
+-84.29628,33.90787,-84.29628,33.90787,Walgreens 11757,Combination Grocery/Other,snap_atlanta_df,1
+-84.29583,33.90601,-84.29583,33.90601,KROGER  491,Super Store,snap_atlanta_df,1
+-84.29362,33.89228,-84.29362,33.89228,El Progreso  ,Convenience Store,snap_atlanta_df,1
+-84.29344,33.86021,-84.29344,33.86021,Dekalb Convenience Store  ,Convenience Store,snap_atlanta_df,1
+-84.29344,33.87736,-84.29344,33.87736,Rahmania Halal Meat & Grocery Atl Inc  ,Medium Grocery Store,snap_atlanta_df,1
+-84.29292,33.86088,-84.29292,33.86088,Chaparral Meat Market  ,Small Grocery Store,snap_atlanta_df,1
+-84.29262,33.86135,-84.29262,33.86135,Food Mart  ,Convenience Store,snap_atlanta_df,1
+-84.29182,33.74741,-84.29182,33.74741,Amoco Food Mart  ,Convenience Store,snap_atlanta_df,1
+-84.2916,33.86263,-84.2916,33.86263,Tienda Y Panaderia Delicias  ,Convenience Store,snap_atlanta_df,1
+-84.29136,33.89209,-84.29136,33.89209,Tienda Tikal  ,Convenience Store,snap_atlanta_df,1
+-84.29135,33.89208,-84.29135,33.89208,Supermercado La Favorita  ,Medium Grocery Store,snap_atlanta_df,1
+-84.29024,33.86623,-84.29024,33.86623,Right Mart Shell  ,Convenience Store,snap_atlanta_df,1
+-84.29021,33.8666,-84.29021,33.8666,San Miguel   2  ,Medium Grocery Store,snap_atlanta_df,1
+-84.29009,33.86557,-84.29009,33.86557,Petro Green Shell  ,Convenience Store,snap_atlanta_df,1
+-84.28928,33.89023,-84.28928,33.89023,Fiesta Food Mart 2  ,Convenience Store,snap_atlanta_df,1
+-84.28854,33.88968,-84.28854,33.88968,La Surtidora  ,Convenience Store,snap_atlanta_df,1
+-84.28837,33.88714,-84.28837,33.88714,Al-Falah Supermarket  ,Medium Grocery Store,snap_atlanta_df,1
+-84.28748,33.86368,-84.28748,33.86368,El Loteria  ,Convenience Store,snap_atlanta_df,1
+-84.28745,33.88705,-84.28745,33.88705,Family Dollar 10281,Combination Grocery/Other,snap_atlanta_df,1
+-84.28737,33.88565,-84.28737,33.88565,Bengal Store & Halal Meat  ,Medium Grocery Store,snap_atlanta_df,1
+-84.28716,33.86349,-84.28716,33.86349,Shell Food Mart  ,Convenience Store,snap_atlanta_df,1
+-84.28712,33.86238,-84.28712,33.86238,PUBLIX  0800,Supermarket,snap_atlanta_df,1
+-84.28632,33.89016,-84.28632,33.89016,Alam 5048 LLC  ,Convenience Store,snap_atlanta_df,1
+-84.28529,33.89097,-84.28529,33.89097,"Confianza en Dios, inc ",Medium Grocery Store,snap_atlanta_df,1
+-84.28497,33.89727,-84.28497,33.89727,Beuna Suerte Food Mart  ,Convenience Store,snap_atlanta_df,1
+-84.28494,33.88412,-84.28494,33.88412,Atlanta Supermarket  ,Small Grocery Store,snap_atlanta_df,1
+-84.28493,33.89726,-84.28493,33.89726,Supermacado El Guero  ,Convenience Store,snap_atlanta_df,1
+-84.28426,33.89772,-84.28426,33.89772,Citgo Food Mart ,Convenience Store,snap_atlanta_df,1
+-84.28423,33.88508,-84.28423,33.88508,Chevron Food Mart  ,Convenience Store,snap_atlanta_df,1
+-84.28233,33.92285,-84.28233,33.92285,Texaco Food Mart  ,Convenience Store,snap_atlanta_df,1
+-84.28113,33.89596,-84.28113,33.89596,Dollar Tree 4231,Combination Grocery/Other,snap_atlanta_df,1
+-84.28105,33.89604,-84.28105,33.89604,Supermercado Chicago  ,Supermarket,snap_atlanta_df,1
+-84.27917,33.89954,-84.27917,33.89954,Bangladesh Halal Meat  ,Medium Grocery Store,snap_atlanta_df,1
+-84.27773,33.90061,-84.27773,33.90061,Zamzam Halal Supermarket And Restaurant  ,Medium Grocery Store,snap_atlanta_df,1
+-84.27714,33.92526,-84.27714,33.92526,El Sol Supermercado 2  ,Large Grocery Store,snap_atlanta_df,1
+-84.27623,33.90119,-84.27623,33.90119,Al- Amin Supermarket & Restaurant  ,Large Grocery Store,snap_atlanta_df,1
+-84.27582,33.90079,-84.27582,33.90079,Tienda La Variedad/Food Mart 1,Convenience Store,snap_atlanta_df,1
+-84.27532,33.902,-84.27532,33.902,Quiktrip 848,Convenience Store,snap_atlanta_df,1
+-84.27447,33.88006,-84.27447,33.88006,QuikTrip 709R,Convenience Store,snap_atlanta_df,1
+-84.27371,33.9056,-84.27371,33.9056,Buford Highway Farmers Market  ,Super Store,snap_atlanta_df,1
+-84.27209,33.87787,-84.27209,33.87787,Chevron Food Mart  ,Convenience Store,snap_atlanta_df,1
+-84.27161,33.94289,-84.27161,33.94289,Dunwoody Shell  ,Convenience Store,snap_atlanta_df,1
+-84.2711,33.8784,-84.2711,33.8784,Shell Food Mart  ,Convenience Store,snap_atlanta_df,1
+-84.27077,33.94317,-84.27077,33.94317,Dollar Tree 6737,Combination Grocery/Other,snap_atlanta_df,1
+-84.26952,33.92601,-84.26952,33.92601,Las Americas  ,Medium Grocery Store,snap_atlanta_df,1
+-84.26941,33.94063,-84.26941,33.94063,La Confianza #2  ,Medium Grocery Store,snap_atlanta_df,1
+-84.26654,33.92835,-84.26654,33.92835,Shell Food Mart  ,Convenience Store,snap_atlanta_df,1
+-84.2664,33.93091,-84.2664,33.93091,Mini Mart Tienda  ,Convenience Store,snap_atlanta_df,1
+-84.26606,33.90838,-84.26606,33.90838,Super Mercado La Fiesta  ,Small Grocery Store,snap_atlanta_df,1
+-84.26583,33.93085,-84.26583,33.93085,Peachtree Convenience  ,Medium Grocery Store,snap_atlanta_df,1
+-84.26571,33.93021,-84.26571,33.93021,QUIKTRIP 734,Convenience Store,snap_atlanta_df,1
+-84.26374,33.91099,-84.26374,33.91099,Big H Food Mart  ,Convenience Store,snap_atlanta_df,1
+-84.26118,33.91362,-84.26118,33.91362,El Mundo Food Mart  ,Convenience Store,snap_atlanta_df,1
+-84.2572,33.91793,-84.2572,33.91793,Raceway 6920 6920,Convenience Store,snap_atlanta_df,1
+-84.25683,33.88517,-84.25683,33.88517,Brito Super Market  ,Medium Grocery Store,snap_atlanta_df,1
+-84.25599,33.84781,-84.25599,33.84781,PUBLIX  691,Supermarket,snap_atlanta_df,1
+-84.25574,33.84697,-84.25574,33.84697,Dollar Tree 1797,Combination Grocery/Other,snap_atlanta_df,1
+-84.25401,33.92116,-84.25401,33.92116,Exxon Buford  ,Convenience Store,snap_atlanta_df,1
+-84.25337,33.88526,-84.25337,33.88526,Buddy's Food Store ,Convenience Store,snap_atlanta_df,1
+-84.25102,33.92371,-84.25102,33.92371,Gwinnett Convenience Store  ,Convenience Store,snap_atlanta_df,1
+-84.25101,33.89839,-84.25101,33.89839,Chevron Food Mart  ,Convenience Store,snap_atlanta_df,1
+-84.24848,33.88589,-84.24848,33.88589,Chevron Food Mart  ,Convenience Store,snap_atlanta_df,1
+-84.24478,33.8983,-84.24478,33.8983,"Leon International Foods, Inc.  ",Small Grocery Store,snap_atlanta_df,1
+-84.24462,33.90232,-84.24462,33.90232,Quik Trip 707,Convenience Store,snap_atlanta_df,1
+-84.24346,33.88548,-84.24346,33.88548,Kroger 685,Super Store,snap_atlanta_df,1
+-84.23904,33.89508,-84.23904,33.89508,Royal Food Mart  ,Convenience Store,snap_atlanta_df,1
+-84.23786,33.9286,-84.23786,33.9286,EL RANCHO MARKET  ,Convenience Store,snap_atlanta_df,1
+-84.23509,33.92926,-84.23509,33.92926,The Little Farm Grocery Store  ,Convenience Store,snap_atlanta_df,1
